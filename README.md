@@ -8,4 +8,4 @@ Here you can find the syllabus of the aforementioned courses:
 [Statistical Methods in Natural Language Processing I](https://ufal.mff.cuni.cz/courses/npfl067)
 [Statistical Methods in Natural Language Processing II](https://ufal.mff.cuni.cz/courses/npfl068)
 ## The homeworks
- - **[Assignment 1](Text_perplexity)**: Study the perplexity and entropy of a text by adding also smoothing tecniques.
+ - **[Assignment 1](Text_perplexity)**: Study the perplexity and entropy of a text.
