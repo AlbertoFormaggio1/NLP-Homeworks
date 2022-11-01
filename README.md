@@ -9,3 +9,4 @@ Here you can find the syllabus of the aforementioned courses:
  - [Statistical Methods in Natural Language Processing II](https://ufal.mff.cuni.cz/courses/npfl068)
 ## The homeworks
  - **[Assignment 1](Text_perplexity)**: Study the perplexity and entropy of a text.
+ - **[Assignment 2](EM_algorithm)**: Use the EM algorithm to get the parameters that tune the probabilities obtained from the training data over the heldout data. Finally, evaluate the model by computing the cross entropy over a separate test set.
