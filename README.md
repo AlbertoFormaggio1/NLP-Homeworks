@@ -10,5 +10,5 @@ Here you can find the syllabus of the aforementioned courses:
 ## The homeworks
  - **[Assignment 1](Text_perplexity)**: Study the perplexity and entropy of a text.
  - **[Assignment 2](EM_algorithm)**: Use the EM algorithm to get the parameters that tune the probabilities obtained from the training data over the heldout data. Finally, evaluate the model by computing the cross entropy over a separate test set.
- - **[Assignment 3](Brill's Tagger)**: Train your own Brill's tagger by defining the template and deciding appropriately the maximum number of rules
- - **[Assignment 4](HMM Tagger)**: Train an HMM Tagger both in a supervised and unsupervised way (Viterbi training and Baum-Welch training, respectively).
+ - **[Assignment 3](Brill's%20Tagger)**: Train your own Brill's tagger by defining the template and deciding appropriately the maximum number of rules
+ - **[Assignment 4](Viterbi%20and%20Baum-Welch%20Training)**: Train an HMM Tagger both in a supervised and unsupervised way (Viterbi training and Baum-Welch training, respectively).
